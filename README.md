@@ -31,9 +31,9 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 ## Build Instructions
 
 ### 1. Read through the Maker Guide
- [Pending for update]
+The [Maker Guide](/Documentation/📝Product Manual - Adapted Recorder Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 ### 2. Order the Off-The-Shelf Components
- [Pending for update]
+The [Bill of Materials](/Documentation/Playback_Switch_BOM.xlsx) lists all of the parts and components required to build the Adapted Recorder Button.
 ### 3. Assemble the Playback Switch
  [Pending for update]
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/📝Product Manual - Adapted Recorder Button.pdf) for the tools and steps required to build each portion.
@@ -70,6 +70,7 @@ Original Source Location: The original project source files are available online
 
 <!-- ABOUT EG START -->
 ## About Engineering Good 
+<img src="Photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
  - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
  - GitHub: [Engineer Good](https://github.com/Engineering-Good)
