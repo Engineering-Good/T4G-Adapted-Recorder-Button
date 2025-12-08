@@ -1,4 +1,5 @@
-# Adapted Recorder Button <!--- TITLE --->
+# Adapted Recorder Button 
+<!--- TITLE --->
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
 <!--- SUMMARY --->
