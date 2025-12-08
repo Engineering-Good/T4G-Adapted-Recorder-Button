@@ -4,13 +4,8 @@
 <!--- TITLE --->
 # Adapted Recorder Button
 
-
 <!--- SUMMARY --->
-The Adapted Recorder Button  is an assistive button that also plays a prerecorded message up to 30 seconds long when the button is pressed. 
-It has a diameter of 80-90mm and an activation force of roughly 250 grams. The Button  is made entirely with commercial, off the shelf parts, 
-with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive button 
-who would benefit from or prefer additional audio feedback when using a switch. The device is comprised of off-the-shelf electronics and 3D printed parts. 
-The overall cost of materials is about $8-10 (excluding component shipping fee).
+The Adapted Recorder Button  is an assistive button that also plays a prerecorded message up to 30 seconds long when the button is pressed. It has a diameter of 80-90mm and an activation force of roughly 250 grams. The Button is made entirely with commercial, off the shelf parts, with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive button who would benefit from or prefer additional audio feedback when using a switch. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8-10 (excluding component shipping fee).
 
 The current version of the device (v1.0) has been built and user tested.
 
@@ -23,32 +18,38 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
- [Pending for update]
+[Pending for update]
 
 ### 3. Build this device for someone else
- [Pending for update]
+[Pending for update]
 
 ## Build Instructions
 
 ### 1. Read through the Maker Guide
-The [Maker Guide](/Documentation/📝Product Manual - Adapted Recorder Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/Documentation/Product Manual - Adapted Recorder Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 ### 2. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/Playback_Switch_BOM.xlsx) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/Documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
 ### 3. Assemble the Playback Switch
  [Pending for update]
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/📝Product Manual - Adapted Recorder Button.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
 
 ## Files
 ### Documentation
+| Document             | Version | Link |
+|----------------------|---------|------| |
+| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
+| Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/Documentation/Adapted_Recorder_Button_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
+| Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/Documentation/CHANGES.txt)     |
 
 ## License
 Copyright (c) 2024 Neil Squire / Makers Making Change.
 
 This repository describes Open Hardware:
- - Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ) .
+ - Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
  - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
  - Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
 
