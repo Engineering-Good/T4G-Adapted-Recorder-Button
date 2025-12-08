@@ -8,7 +8,6 @@ The Adapted Recorder Button  is an assistive button that also plays a prerecorde
 The current version of the device (v1.0) has been built and user tested.
 
 <img src="Photos/Adapted-Recorder-Button.jpg" width="500" alt="Picture of Adapted Recorder Button.">
-![Alt text]("Photos/Adapted-Recorder-Button.jpg "Picture of Adapted Recorder Button.")
 
 ## How to Obtain the Device
 
@@ -36,7 +35,6 @@ The [Bill of Materials](/Documentation/Adapted_Recorder_Button_BOM.csv) lists al
 
 ### 3. Assemble the Playback Switch
 
- [Pending for update]
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
@@ -62,7 +60,7 @@ This repository describes Open Hardware:
 
 - Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
-- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/) .
+- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
 This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
@@ -85,7 +83,7 @@ Original Source Location: The original project source files are available online
 <img src="Photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
-- GitHub: [Engineer Good](https://github.com/Engineering-Good)
+- GitHub: [Engineering Good](https://github.com/Engineering-Good)
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
