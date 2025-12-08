@@ -65,8 +65,8 @@ Original Source Location: The original project source files are available online
  - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
  - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
  - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
- - Thingiverse: 
- - Printables: 
+ - Thingiverse: Not Created
+ - Printables: Not Created
 
 ### Contact Us
 For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](contactus@engineeringgood.org).
