@@ -2,11 +2,19 @@
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
 <!--- TITLE --->
-# Adapted-Recorder-Button
+# Adapted Recorder Button
 
 
 <!--- SUMMARY --->
+The Adapted Recorder Button  is an assistive button that also plays a prerecorded message up to 30 seconds long when the button is pressed. 
+It has a diameter of 80-90mm and an activation force of roughly 250 grams. The Button  is made entirely with commercial, off the shelf parts, 
+with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive button 
+who would benefit from or prefer additional audio feedback when using a switch. The device is comprised of off-the-shelf electronics and 3D printed parts. 
+The overall cost of materials is about $8-10 (excluding component shipping fee).
 
+The current version of the device (v1.0) has been built and user tested.
+
+<img src="Photos/Adapted-Recorder-Button.jpg" width="500" alt="Picture of Adapted Recorder Button.">
 
 ## How to Obtain the Device
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
