@@ -23,17 +23,20 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
+ [Pending for update]
+
 ### 3. Build this device for someone else
+ [Pending for update]
 
 ## Build Instructions
 
 ### 1. Read through the Maker Guide
-
+ [Pending for update]
 ### 2. Order the Off-The-Shelf Components
-
+ [Pending for update]
 ### 3. Assemble the Playback Switch
-
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Playback_Switch_Maker_Guide.pdf) for the tools and steps required to build each portion.
+ [Pending for update]
+Reference the Assembly Guide section of the [Maker Guide](/Documentation/📝Product Manual - Adapted Recorder Button.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 As open source assistive technology, you are welcomed and encouraged to improve upon the design. 
