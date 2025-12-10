@@ -17,11 +17,11 @@ This is an open-source assistive technology, so anyone is free to build it. All 
 
 ### 2. Request a build of this device
 
-[Pending for update]
+ [Pending for update]
 
 ### 3. Build this device for someone else
 
-[Pending for update]
+ [Pending for update]
 
 ## Build Instructions
 
@@ -33,7 +33,7 @@ The [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)  co
 
 The [Bill of Materials](/Documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
 
-### 3. Assemble the Playback Switch
+### 3. Assemble the Adapted Recorder Button
 
 Reference the Assembly Guide section of the [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
 
@@ -52,6 +52,13 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 | User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
 | Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/Documentation/CHANGES.txt)     |
 
+## Open Hardware Attribution
+
+The core design for this Adapted Recorder Button is based on the Playback Switch, an open-source assistive technology project.
+Original Designer: Makers Making Change (a program of Neil Squire).
+Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
+Original Source Location: The original project source files are available online at: <https://www.makersmakingchange.com/product/playback-switch/01tJR000003S43lYAC>
+
 ## License
 
 Copyright (c) 2024 Neil Squire / Makers Making Change.
@@ -67,13 +74,6 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLU
 Please see the CERN-OHL-W v2 for applicable conditions.
 
 Source Location: <https://github.com/makersmakingchange/Playback-Switch>
-
-## Open Hardware Attribution
-
-The core design for this Adapted Recorder Button is based on the Playback Switch, an open-source assistive technology project.
-Original Designer: Makers Making Change (a program of Neil Squire).
-Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-Original Source Location: The original project source files are available online at: <https://www.makersmakingchange.com/product/playback-switch/01tJR000003S43lYAC>
 
 ----
 
