@@ -15,13 +15,11 @@ The current version of the device (v1.0) has been built and user tested.
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
 
-### 2. Request a build of this device
+### 2. Request a build of this device or build this device for someone else
 
- [Pending for update]
-
-### 3. Build this device for someone else
-
- [Pending for update]
+- Request for this device Adapted Recorder Button. Please contact us via our email [contact us](contactus@engineeringgood.org).
+After using the device please write us a short story of your experience or any feedback of the device.
+- If you want to build this device as volunteer. Please contact us via our email [contact us](contactus@engineeringgood.org).
 
 ## Build Instructions
 
