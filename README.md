@@ -78,7 +78,7 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 <!-- ABOUT EG START -->
 ## About Engineering Good
 
-<img src="Photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
+<img src="photos/EG-staff-and-volunteers-2025-scaled.jpg" width="500" alt="Picture of EG staff and volunteers.">
 
 - Website: [https://www.engineeringgood.org](https://www.engineeringgood.org)
 - GitHub: [Engineering Good](https://github.com/Engineering-Good)
