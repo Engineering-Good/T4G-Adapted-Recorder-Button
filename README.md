@@ -7,7 +7,7 @@ The Adapted Recorder Button  is an assistive button that also plays a prerecorde
 
 The current version of the device (v1.0) has been built and user tested.
 
-<img src="Photos/Adapted-Recorder-Button.jpg" width="500" alt="Picture of Adapted Recorder Button.">
+<img src="photos/Adapted-Recorder-Button.jpg" width="500" alt="Picture of Adapted Recorder Button.">
 
 ## How to Obtain the Device
 
@@ -15,25 +15,25 @@ The current version of the device (v1.0) has been built and user tested.
 
 This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
 
-### 2. Request a build of this device or build this device for someone else
+### 2. Get Involved: Requests & Volunteering
 
-- Request for this device Adapted Recorder Button. Please contact us via our email [contact us](contactus@engineeringgood.org).
-After using the device please write us a short story of your experience or any feedback of the device.
-- If you want to build this device as volunteer. Please contact us via our email [contact us](contactus@engineeringgood.org).
+- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](contactus@engineeringgood.org). We also invite you to share your journey with us—your stories and feedback help us make our assistive tech even better!
+
+- Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](contactus@engineeringgood.org).
 
 ## Build Instructions
 
 ### 1. Read through the Maker Guide
 
-The [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
+The [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)  contains all the necessary information to build this device, including tool lists, assembly instructions, and testing.
 
 ### 2. Order the Off-The-Shelf Components
 
-The [Bill of Materials](/Documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
+The [Bill of Materials](/documentation/Adapted_Recorder_Button_BOM.csv) lists all of the parts and components required to build the Adapted Recorder Button.
 
 ### 3. Assemble the Adapted Recorder Button
 
-Reference the Assembly Guide section of the [Maker Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
+Reference the Assembly Guide section of the [Maker Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf) for the tools and steps required to build each portion.
 
 ## How to improve this Device
 
@@ -45,10 +45,10 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
-| Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/Documentation/Adapted_Recorder_Button_BOM.csv)     |
-| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/Documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
-| Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/Documentation/CHANGES.txt)     |
+| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
+| Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/documentation/Adapted_Recorder_Button_BOM.csv)     |
+| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
+| Changelog            | 1.0     | [Adapted_Recorder_Button_Changelog](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
 
@@ -90,5 +90,5 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](contactus@engineeringgood.org).
+For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 <!-- ABOUT EG END -->
