@@ -53,9 +53,9 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 ## Open Hardware Attribution
 
 The core design for this Adapted Recorder Button is based on the Playback Switch, an open-source assistive technology project.
-Original Designer: Makers Making Change (a program of Neil Squire).
-Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
-Original Source Location: The original project source files are available online at: <https://www.makersmakingchange.com/product/playback-switch/01tJR000003S43lYAC>
+- Original Designer: Makers Making Change (a program of Neil Squire).
+- Original Copyright:  Copyright (c) Neil Squire / Makers Making Change.
+- Original Source Location: The original project source files are available online at: <https://www.makersmakingchange.com/product/playback-switch/01tJR000003S43lYAC>
 
 ## License
 
