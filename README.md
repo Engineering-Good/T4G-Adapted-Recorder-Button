@@ -59,7 +59,7 @@ The core design for this Adapted Recorder Button is based on the Playback Switch
 
 ## License
 
-Copyright (c) 2024 Neil Squire / Makers Making Change.
+Copyright (c) 2024 Engineering Good.
 
 This repository describes Open Hardware:
 
