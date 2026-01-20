@@ -1,7 +1,5 @@
-Item,Supplier/Product Link,Price,Quantity
-Pet Button,"Click Here Shoppe link - Link too long
-Click Here Lazada Link - Link too long","5.86 SGD/pcs or 
-5.50 SGD/pcs",1
-Push button 12*12*4.3 or 5,Click Here - Link too long,4.26 SGD/30pcs,1
-3.5mm male mono audio jack cable,Click Here - Link too long,5.42 SGD/10pcs,1
-Cable Tie 3x100mm,Click Here - Link too long,1.62 SGD/100pcs,1
+Item,Supplier/Product Link,Supplier,Price,Quantity
+Pet Button,https://s.lazada.sg/s.2TC3e,Lazada,5.50 SGD/pcs,1
+Push button 12*12*4.3 or 5,https://sg.shp.ee/5rWgzCj,Shopee,4.26 SGD/30pcs,1
+3.5mm male mono audio jack cable,https://sg.shp.ee/XMNCs5N,Shopee,5.42 SGD/10pcs,1
+Cable Tie 3x100mm,https://sg.shp.ee/rzqTJnm,Shopee,1.62 SGD/100pcs,1
