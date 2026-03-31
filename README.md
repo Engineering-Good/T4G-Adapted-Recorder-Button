@@ -3,9 +3,9 @@
 <!--- Open Source Assistive Technology: GitHub Readme Template --->
 
 <!--- SUMMARY --->
-The Adapted Recorder Button  is an assistive button that also plays a prerecorded message up to 30 seconds long when the button is pressed. It has a diameter of 80-90mm and an activation force of roughly 250 grams. The Button is made entirely with commercial, off the shelf parts, with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of assistive button who would benefit from or prefer additional audio feedback when using a switch. The device is comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8-10 SGD (excluding component shipping fee).
+The Adapted Recorder Button  is an assistive button that plays a prerecorded message up to 30 seconds long when pressed. It has a diameter of 80-90mm and an activation force of roughly 250 grams. The Button is made entirely with commercial, off-the-shelf parts, with no 3D printing involved. It has a similar functionality to the BIGmack and LITTLEmack buttons. This device is intended for users of an assistive button who would benefit from or prefer additional audio feedback when using a switch. The device is composed of off-the-shelf electronics and 3D-printed parts. The overall cost of materials is about $8-10 SGD (excluding component shipping fee).
 
-The current version of the device (v1.0) has been built and user tested.
+The current version of the device (v1.0) has been built and user-tested.
 
 <img src="photos/Adapted-Recorder-Button.jpg" width="500" alt="Picture of Adapted Recorder Button.">
 
@@ -13,11 +13,11 @@ The current version of the device (v1.0) has been built and user tested.
 
 ### 1. Do-it-Yourself (DIY) or Do-it-Together (DIT)
 
-This is an open-source assistive technology, so anyone is free to build it. All of the files and instructions required to build the device are contained within this repository. Refer to the Maker Guide below.
+This is an open-source assistive technology, so anyone is free to build it. All the files and instructions required to build the device are in this repository. Refer to the Maker Guide below.
 
 ### 2. Get Involved: Requests & Volunteering
 
-- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and feedback help us make our assistive tech even better!
+- Need this device? If you or someone you know could benefit from the Adapted Recorder Button, please send us an email at [contactus@engineeringgood.org](contactus@engineeringgood.org). We also invite you to share your journey with us! Tell us your stories about the device and your feedback; help us make our assistive tech even better!
 
 - Want to help? We are always looking for volunteers to help build these devices for the community. If you have the skills and want to contribute, please contact us via email at [contactus@engineeringgood.org](contactus@engineeringgood.org).
 
@@ -37,7 +37,7 @@ Reference the Assembly Guide section of the [Maker Guide](/documentation/Product
 
 ## How to improve this Device
 
-As open source assistive technology, you are welcomed and encouraged to improve upon the design.
+As open-source assistive technology, you are welcome and encouraged to improve the design.
 
 ## Files
 
@@ -45,7 +45,7 @@ As open source assistive technology, you are welcomed and encouraged to improve 
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf")     |
+| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)     |
 | Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/documentation/Adapted_Recorder_Button_BOM.csv)     |
 | User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
 | Changelog            | 1.0     | [Adapted_Recorder_Button_Change_Log](/documentation/CHANGES.txt)     |
@@ -65,10 +65,10 @@ This repository describes Open Hardware:
 
 - Everything needed or used to design, make, test, or prepare the Playback Switch is licensed under the [CERN 2.0 Weakly Reciprocal license (CERN-OHL-W v2) or later](https://cern.ch/cern-ohl ).
 - All software is under the [GNU General Public License v3.0 (GPL-3.0)](https://www.gnu.org/licenses/gpl.html).
-- Accompanying material such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch are published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+- Accompanying material, such as instruction manuals, videos, and other copyrightable works that are useful but not necessary to design, make, test, or prepare the Playback Switch, is published under a [Creative Commons Attribution-ShareAlike 4.0 license (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
 
 You may redistribute and modify this documentation and make products using it under the terms of the [CERN-OHL-W v2](https://cern.ch/cern-ohl).
-This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A PARTICULAR PURPOSE.
+This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY, AND FITNESS FOR A PARTICULAR PURPOSE.
 Please see the CERN-OHL-W v2 for applicable conditions.
 
 Source Location: <https://github.com/makersmakingchange/Playback-Switch>
@@ -90,5 +90,5 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical questions, to get involved, or to share your experience, we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
 <!-- ABOUT EG END -->
