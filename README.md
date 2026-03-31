@@ -45,9 +45,9 @@ As open-source assistive technology, you are welcome and encouraged to improve t
 
 | Document             | Version | Link |
 |----------------------|---------|------|
-| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)     |
+| Maker Guide          | 1.0     | [Adapted_Recorder_Button_Maker_Guide](/documentation/Product_Manual_Adapted_Recorder_Button.pdf)     |
 | Bill of Materials    | 1.0     | [Adapted_Recorder_Button_Bill_of_Materials](/documentation/Adapted_Recorder_Button_BOM.csv)     |
-| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/documentation/Product_Manual-Adapted_Recorder_Button.pdf)    |
+| User Guide           | 1.0     | [Adapted_Recorder_Button_User_Guide](/documentation/Product_Manual_Adapted_Recorder_Button.pdf)    |
 | Changelog            | 1.0     | [Adapted_Recorder_Button_Change_Log](/documentation/CHANGES.txt)     |
 
 ## Open Hardware Attribution
