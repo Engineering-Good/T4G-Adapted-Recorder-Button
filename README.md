@@ -85,10 +85,14 @@ Source Location: <https://github.com/makersmakingchange/Playback-Switch>
 - Instagram: [@engineeringgood](https://www.instagram.com/engineeringgood/)
 - Facebook: [engineeringgood](https://www.facebook.com/engineeringgood.org/)
 - LinkedIn: [engineeringgood](https://www.linkedin.com/company/engineeringgood/?originalSubdomain=sg)
-- Thingiverse: Not Created
-- Printables: Not Created
+- Thingiverse: [engineeringgood](https://www.thingiverse.com/engineeringgood/designs)
+- Printables: [@engineeringg_4351657](https://www.printables.com/@engineeringg_4351657)
 
 ### Contact Us
 
-For technical questions, to get involved, or to share your experience, we encourage you to [visit our website](https://www.engineeringgood.org/) or [contact us](https://www.engineeringgood.org/contact-faq/) or email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org).
+For technical or non-techical questions, to get involved, or to share your experience we encourage you to 
+- Visit [our website](https://www.engineeringgood.org/)
+- Vontact us via [contact us form](https://www.engineeringgood.org/contact-faq/)
+- Email us at [contactus@engineeringgood.org](mailto:contactus@engineeringgood.org)
+- Volunteering Opportunities [working in progress](https://www.notion.so/engineeringgood/Volunteering-Opportunities-2025-ffa3d3ec8bb34ac7a672f5c10ee8177b)
 <!-- ABOUT EG END -->
